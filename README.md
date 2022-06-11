@@ -52,3 +52,7 @@ s=Service('/Users/ambitiousdonut/chromedriver')
 
 ## Step 4. (Optional) Deploy for Regular Updates
 Deploy to a service like [PythonAnywhere](https://www.pythonanywhere.com/?affiliate_id=0066b821) to check every day for stock updates. 
+
+
+Find this helpful? Feel free to donate. Thanks!  
+![Coinbase QR Code](coinbase_QR.png)
